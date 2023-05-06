@@ -1,3 +1,3 @@
 # Machine-learning
 
-These are my materials i used to practice machine learning
+This is a GitHub repository containing the materials I used to practice machine learning.
